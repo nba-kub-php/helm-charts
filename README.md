@@ -1,3 +1,6 @@
+This is here because rabbitmq has exchagens and queues defined in a yaml wjithout using the ui. 
+
+
 # helm-charts
 
 Helm charts for a local test cluster, deployable directly with Helm or synced by
